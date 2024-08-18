@@ -3,7 +3,7 @@ Copy code
 # BudgetBuddy
 
 **BudgetBuddy** is a simple and intuitive web application designed to help you manage your budgets and track expenses effortlessly. Whether you're keeping an eye on your grocery budget or tracking your cat's expenses, BudgetBuddy makes it easy to organize and stay on top of your finances.
-
+https://budgetbudds.netlify.app/
 ## Features
 
 - **Create Multiple Budgets**: Easily set up different budgets for various categories like Food, Pets, Entertainment, and more.
